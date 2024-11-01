@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsvMountainBeach", "CsvMountainBeach\CsvMountainBeach.csproj", "{F3C52A58-0572-4E09-A9FD-23A795F03E3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsvLibrary", "CsvLibrary\CsvLibrary.csproj", "{595552D7-8D85-44CE-9E6B-736778DC9CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3C52A58-0572-4E09-A9FD-23A795F03E3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C52A58-0572-4E09-A9FD-23A795F03E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C52A58-0572-4E09-A9FD-23A795F03E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C52A58-0572-4E09-A9FD-23A795F03E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595552D7-8D85-44CE-9E6B-736778DC9CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595552D7-8D85-44CE-9E6B-736778DC9CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595552D7-8D85-44CE-9E6B-736778DC9CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595552D7-8D85-44CE-9E6B-736778DC9CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {193A0400-A83A-42C6-AD28-4CA1BCD9DC2D}
+	EndGlobalSection
+EndGlobal
