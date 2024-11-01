@@ -16,6 +16,3 @@ var records = fileReader.ReadCsv(fileIn);
 var filteredSkiRecords = fileReader.ReadFilteredCsv(fileIn, "Preferred_Activities", "skiing");
 printer.PrintCsv(filteredSkiRecords);
 exporter.ExportToCsv(filteredSkiRecords, fileOut);
-
-
-
